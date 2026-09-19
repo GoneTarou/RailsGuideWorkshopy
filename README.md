@@ -1,1 +1,1 @@
-# RailsGuideWorkshopy
+# 一緒にRailsガイドを読みません会の概要
