@@ -12,8 +12,8 @@ https://school.runteq.jp/v2/runteq_events/1867
 | 9/5 | コントローラー編後半 |  4名 |
 | 9/12 | Viewの概要前半 |  7名 |
 | 9/19 | Viewの概要後半 |  6名 |
-| 9/26 | Active Record の基礎前半 |  名 |
-| 10/3 | Active Record の基礎前半 |  名 |
+| 9/26 | Active Record の基礎前半 |  6名 |
+| 10/3 | Active Record バリデーション前半 |  名 |
 | / |  |  名 |
 | / |  |  名 |
 | / |  |  名 |
